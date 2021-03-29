@@ -9,5 +9,5 @@
 Применены следующие технологии: Grid Layout, Flexbox, БЭМ, Nested БЭМ, отзывчивая верстка.
 
 
- [Ссылка на GitHub Pages](https://kolosdar.github.io/russian-travel/)
+ [Ссылка на GitHub Pages](https://kolosdar.github.io/russian-travel)
 
