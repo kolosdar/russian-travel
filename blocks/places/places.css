@@ -1,0 +1,5 @@
+@media (max-width: 425px) {
+  .places.content__container {
+      padding: 0;
+    }
+  }
