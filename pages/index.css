@@ -22,7 +22,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
-@import url(../blocks/intro/__list-span-accent/intro__list-span-accent.css);
+@import url(../blocks/intro/__span/intro__span.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
@@ -56,11 +56,4 @@
 
 
 
-@media (max-width: 425px) {
 
-.places.content__container {
-    padding: 0;
-  }
-
-
-}
