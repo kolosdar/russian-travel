@@ -1,17 +1,20 @@
 .cover {
-  padding-top: 92px;
-  box-sizing: border-box;
-  width: 100%;
+    padding-top: 92px;
+    max-width: 1184px;
+    max-height: 740px;
+    min-height: 200px;
+    height: calc(62.5vw);
+    margin: 0 auto;
 }
 
 @media (max-width: 768px) {
-  .cover {
-    padding-top: 90px;
-  }
+    .cover {
+        padding-top: 90px;
+    }
 }
 
 @media (max-width: 425px) {
-  .cover {
-    padding-top: 66px;
-  }
+    .cover {
+        padding-top: 66px;
+    }
 }

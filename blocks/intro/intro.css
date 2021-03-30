@@ -2,12 +2,6 @@
   padding: 92px 0;
 }
 
-@media (max-width: 760px) {
-  .intro.content__container {
-    width: 90%;
-  }
-}
-
 @media (max-width: 768px) {
   .intro {
     padding-top: 88px;

@@ -6,3 +6,9 @@
   font-weight: normal;
   color: #fff;
 }
+
+@media (max-width: 760px) {
+  .footer__copyright {
+    padding-top: 48px;
+  }
+}

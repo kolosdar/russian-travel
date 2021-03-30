@@ -14,11 +14,26 @@
     max-width: 720px;
     padding: 0 24px;
   }
+
+  .lead.content__container {
+    max-width: 100%;
+    padding: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .intro.content__container {
+    width: 90%;
+  }
 }
 
 @media (max-width: 425px) {
   .content__container {
     max-width: 393px;
     padding: 0 16px;
+  }
+
+  .places.content__container {
+    padding: 0;
   }
 }
