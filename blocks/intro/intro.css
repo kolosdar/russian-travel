@@ -1,9 +1,20 @@
 .intro {
   padding: 92px 0;
+  max-width: 76.875%;
+  margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .intro {
+    max-width: 90.625%;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 768px) {
   .intro {
+    max-width: 93.75%;
+    margin: 0 auto;
     padding-top: 88px;
     padding-bottom: 88px;
   }
@@ -11,6 +22,8 @@
 
 @media (max-width: 425px) {
   .intro {
+    max-width: 90%;
+    margin: 0 auto;
     padding-top: 64px;
     padding-bottom: 64px;
   }
